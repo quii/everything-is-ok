@@ -10,3 +10,5 @@ Build a HTTP server without the helpful abstractions. This will help you _unders
 
 - `$ nvm use`
 - `$ node .`
+
+Now hit `http://localhost:8080` in your browser and see what is logged.
